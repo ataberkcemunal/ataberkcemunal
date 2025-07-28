@@ -81,10 +81,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ataberkcemunal&show_icons=true&theme=radical" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataberkcemunal&layout=compact&theme=radical" height="200"/>
-</div>
+</p>
 
 ---
 
