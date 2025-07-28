@@ -82,11 +82,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ataberkcemunal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ataberkcemunal&show_icons=true&theme=radical" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataberkcemunal&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataberkcemunal&layout=compact&theme=radical" width="60%" />
 </p>
 
 ---
