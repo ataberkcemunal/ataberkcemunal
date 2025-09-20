@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ataberk 👋</h1>
 <p align="center">
-  <em>Computer Science Major @ <strong>Sabancı University</strong> & Finance Minor | Software Developer Intern at <strong>ÇİMSA</strong></em><br/>
+  <em>Computer Science & Engineering Major | Finance Minor graduate at Sabancı University<em>
   <em>Passionate about AI</em>
 </p>
 
