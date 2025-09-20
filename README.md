@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Ataberk 👋</h1>
 <p align="center">
   <em>Computer Science & Engineering Major | Finance Minor graduate at Sabancı University<em>
-  <em>Passionate about AI</em>
 </p>
 
 ### 🌐 Connect with Me
